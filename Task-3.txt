@@ -15,6 +15,9 @@ I Shall explain what is happening through this note pad
    i use again GIT ADD . to stage my all files and checked to be green
 8) After ton of asking and changing....now i have created branches 
 and pushed my files ...
+9) OK now we are gonna do ...... this edit has been done 
+ in the branch testbranch2. You will be able to see this changes in main 
+ branch soon after merging
 
 
 
