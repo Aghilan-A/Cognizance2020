@@ -18,9 +18,9 @@ and pushed my files ...
 9) OK now we are gonna do ...... this edit has been done 
  in the branch testbranch2. You will be able to see this changes in main 
  branch soon after merging
-
-
-
+10) We are gonna Rebase and squash commits....
+    *It was a great idea to postpone submission
+    *The course by Avinash jain helped me
 
 
 
