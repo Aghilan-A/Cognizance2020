@@ -1,0 +1,25 @@
+Hello this is Aghilan
+I Shall explain what is happening through this note pad
+1) I cloned my repository using GIT CLONE
+2) Then I was trying to create a txt file but I thought  I messed up on
+     something so i used GIT RESET --HARD 
+3) Now i have used GIT ADD Task-3  to stage my work
+4)Here u could see that i have used GIT COMMIT to save my changes
+5) I noticed that my file was unstaged...I dont know why i tried to use 
+    GIT COMMIT-A but that opened up the vimeditor..I dont know
+   what to do so i just check the status ...(GIT COMMIT RAN 
+   SUCCESSFULLY)
+6) Here i have used GIT PUSH ORIGIN MAIN  to push everything into
+    my repository it opened a new tab for logging in
+7)I have cleared the screen and i noticed that my file was not staged so
+   i use again GIT ADD . to stage my all files
+
+
+
+
+
+
+
+
+
+
