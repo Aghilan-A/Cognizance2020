@@ -12,7 +12,9 @@ I Shall explain what is happening through this note pad
 6) Here i have used GIT PUSH ORIGIN MAIN  to push everything into
     my repository it opened a new tab for logging in
 7)I have cleared the screen and i noticed that my file was not staged so
-   i use again GIT ADD . to stage my all files
+   i use again GIT ADD . to stage my all files and checked to be green
+8) After ton of asking and changing....now i have created branches 
+and pushed my files ...
 
 
 
