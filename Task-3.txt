@@ -1,3 +1,4 @@
+
 Hello this is Aghilan
 I Shall explain what is happening through this note pad
 1) I cloned my repository using GIT CLONE
@@ -21,6 +22,14 @@ and pushed my files ...
 10) We are gonna Rebase and squash commits....
     *It was a great idea to postpone submission
     *The course by Avinash jain helped me
+ 11) Probably the last thing. I am entering these changes in Github(server)
+    Now we are going to pull this change into the local host.
+    I forgot to push the branches upstream from the local host which I
+    did in the last commit...therefore...THE END.
+
+
+
+
 
 
 
