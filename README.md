@@ -34,3 +34,31 @@
 | Enter the Playstore | Enter the App store |
 | Search for Food Forces  in the search bar | Search for Food Forces  in the search bar    	|
 | Click on install | Click on get. Ensure that you're signed in.|
+
+
+<h3><span style="color:LightSeaGreen">FAQ's : </h3>
+
+1. <b>What is the availability of the app?</b>
+
+  * We deliver food across all orphanges , old age homes , convents 24x7 with seldom time delay.
+
+2. <b>What is the quality of food delivered?</b>
+
+  * The food is prepared at minimum ⭐⭐  to ⭐⭐⭐⭐⭐ hotels and
+  the food wasted are thoroughly checked for stale and hygiene by our __India Packaging Products__ team and are delivered with utmost care.
+  * We have passed the FSSAI test and have got their declaration which you can check on [here](https://www.indiafilings.com/learn/fssai-declaration-format/)
+
+
+3. <b>I am waiting too long for the food.What should i do?</b>
+
+   * We generally do not keep our clients waiting. Please ensure that you have given the location correctly.
+   * If you are still waiting. Please tap on the __HELP__ button at the bottom
+    >NOTE : IF YOU'RE USING THE APPLICATION ON A PC FIND THE BUTTON AT THE RIGHTMOST CORNER OF THE PAGE
+
+4. <b>How can I link my Organization?</b>
+ * At the end of the app you could find a ***Join us*** button which will redirect you to a form.
+ * If you are a **HIN** ("Help in need-homes" ,orphanages etc. ), in the sidebar you could find an option ***HINO*** click on it to submit the details.
+
+
+ 5. <b>I can't connect to your website, How can i order instantly, I made multiple orders but no response?</b>
+  * For technical queries please send an toll free sms to ***1800-3654-9874*** (*Don't worry we do not keep you waiting by saying PRESS 1 for....*)
