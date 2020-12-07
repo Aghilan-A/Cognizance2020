@@ -26,3 +26,11 @@
   __Fedex__ , __BlueDart__ also with startups like __Swiggy__, __Uber eats__.
 
 * We also ensure safety of food packaging through our associate __India Packaging Products__ .
+
+<h3><span style="color:Moccasin">Installation guide : </h3>
+
+|For Android |         For iOS             	|
+| -----------|----------------------------	|
+| Enter the Playstore | Enter the App store |
+| Search for Food Forces  in the search bar | Search for Food Forces  in the search bar    	|
+| Click on install | Click on get. Ensure that you're signed in.|
