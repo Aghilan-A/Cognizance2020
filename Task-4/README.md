@@ -61,3 +61,10 @@
 
  5. <b>I can't connect to your website, How can i order instantly, I made multiple orders but no response?</b>
   * For technical queries please send an toll free sms to ***1800-3654-9874*** (*Don't worry we do not keep you waiting by saying PRESS 1 for....*)
+
+  <h3><span style="color:Chartreuse">Contact us : </h3>
+  <p>If you have any kind of queries,or to join the community, please contact us @</p>
+
+  [www.FoodForces.com](https://en.wikipedia.org/wiki/Food_Force)
+
+  Our friends [www.FeedingIndia.com](https://www.feedingindia.org/)---[www.SevaKitchen.org](https://www.sevakitchen.org/)
