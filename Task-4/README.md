@@ -68,3 +68,6 @@
   [www.FoodForces.com](https://en.wikipedia.org/wiki/Food_Force)
 
   Our friends [www.FeedingIndia.com](https://www.feedingindia.org/)---[www.SevaKitchen.org](https://www.sevakitchen.org/)
+
+  <h3><span style="color:Thistle">Licensing : </h3>
+  The project is licensed under GNU FDL.
